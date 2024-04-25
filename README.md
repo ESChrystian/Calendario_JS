@@ -26,8 +26,8 @@
 ## Objetivo Geral:
 Compreender como solucionar problemas, o que é comum no mercado de trabalho. A atividade leva o aluno a buscar a solução, com autonomia, atráves de pesquisas e o emprego das habilidades desenvolvidas ao longo das aulas.
 ## Funcionalidades:
-Marcar o dia do frete.
-Indentificação das cores dos veículos.
+- Marcar o dia do frete.
+- Indentificação das cores dos veículos.
 ## Tecnologias:
 * Live Server
 * HTML5
