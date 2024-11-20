@@ -2,7 +2,7 @@
 
 #### Trabalho Avaliativo de Desenvolvimento Web que simula um teste de habilidades em uma entrevista de emprego para estagiários. 
 
-[👀Visitar Site](http://localhost:52330/calendario.html)
+
 
 ## Instruções da Atividade:
 >### Contexto do Problema
